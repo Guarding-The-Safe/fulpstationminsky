@@ -1,0 +1,44 @@
+#List users here to be made admins with the format: ckey = rank name.
+#Ckey will be converted to ckey format, lowercase with no punctuation except '@'.
+#Rank name will match anything after ' = ' and has not format requirements.
+#Ranks will match to those with the same name in admin_ranks.txt, if a match isn't found the user won't be adminned.
+#If SQL-based admin loading is enabled, admins listed here will always be loaded first and will override any duplicate entries in the database.
+
+TheSwain = Fulp Crew
+Clowno = Fulp Crew
+fulpstation = Fulp Crew
+Oney = Fulp Crew
+tomamoto = Host
+Grupert87 = Admin
+Grupert99 = Admin
+Krinkels = Admin
+Rumpelgeist = Admin
+ImpendingRiot = Moderator
+FaKanza	 = Admin
+Trickytyfly = Admin
+
+#ADMINS
+Ss4gogeta0 = Fulp Crew
+saladata = Admin
+RootVeggie = Admin
+Hugh Mann = Admin
+Krzychukoko = Admin
+Hestymk1 = Admin
+Patrick10ghost = Admin
+DrachenKlaue = Admin
+ChocolateJ = Admin
+Axolotl123 = Admin
+Qustinnus = Admin
+Idontcareacount = Admin
+Windarkata = Admin
+Bricksqwad = Admin
+Ishiro = Admin
+hiimchros = Admin
+InkPacket = Admin
+Kasabaru = Admin
+RaveMaster93 = Admin
+
+#MODERATORS
+
+#TRIAL ADMINS
+BLANK = Admin Jr.
